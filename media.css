@@ -1,5 +1,7 @@
 @media screen and (max-width: 760px){
 
+/*HEADER MOBILE*/
+
 header{
     flex-direction:column;
     justify-content: center;
@@ -24,12 +26,12 @@ header{
         height: 50vh;
     }
     .main-title{
-        font-size: 1.0rem;
+        font-size: 0.9rem;
         width: 80vw;
     }
 
     .main-text{
-        font-size: 1.0rem;
+        font-size: 0.9rem;
         width: 80vw;
     }
 
@@ -78,6 +80,8 @@ header{
         margin-bottom: 30px;
     }
 
+/* FOOTER MOBILE */
+
 .footer img{
     margin-top:20px;
 }
@@ -87,7 +91,7 @@ header{
     font-size: 0.8rem;
 }
 
-/* SERVICES */
+/* SERVICES MOBILE */
 
 .main-services {
     display: block;
@@ -116,7 +120,7 @@ header{
     margin-bottom: 40px;
   }
 
-/*CONTACT*/
+/*CONTACT MOBILE*/
 
 .area-form{
     flex-direction: column;
