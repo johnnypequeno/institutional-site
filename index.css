@@ -70,7 +70,7 @@ main {
     display:flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(rgba(55, 55, 55, 0.782), rgb(0, 0, 0)), url(/img/gallery-3.png);
+    background-image: linear-gradient(rgba(55, 55, 55, 0.782), rgb(0, 0, 0)), url(./img/gallery-3.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size:cover;
